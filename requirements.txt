@@ -13,4 +13,4 @@ scipy==0.15.1
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==1.0.1
-numpy==1.9.2
+numpy==1.13.3
