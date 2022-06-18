@@ -9,4 +9,4 @@ def recommend_movies():
     return jsonify(res)
 
 if __name__=='__main__':
-    app.run(port = 5000, debug = True)
+    app.run()
